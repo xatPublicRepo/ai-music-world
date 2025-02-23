@@ -17,3 +17,8 @@
 1. Fetches **top 5 Twitter trending hashtags**.
 2. Uses **GPT-4** to generate **song lyrics** based on those hashtags.
 3. Prints out the generated lyrics.
+
+## TODO: 
+1. Generate song & video based on the Lyrics.
+2. Host & schedule for nightly run and video generation.
+3. Aut post on Youtube channel via APIs
